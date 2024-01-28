@@ -662,7 +662,7 @@ body {
 
 /*CARD | COLORS */
 .card1 {
-  background-color: rgb(0, 100, 80);
+  background-color: var(--card1);
 }
 
 .card2 {
@@ -964,7 +964,7 @@ body {
   right: 0;
   bottom: 0;
   height: auto;
-  width: 107px;
+  width: 56%;
   transform: rotate(25deg) translate(18%, -2%);
 }
 
