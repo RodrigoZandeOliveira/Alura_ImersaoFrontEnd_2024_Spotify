@@ -662,7 +662,7 @@ body {
 
 /*CARD | COLORS */
 .card1 {
-  background-color: var(--card1);
+  background-color: rgb(0, 100, 80);
 }
 
 .card2 {
