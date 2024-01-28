@@ -1,6 +1,6 @@
 **SPOTIFY CLONE**
 
-![Spotify Clone Preview](./previews/RodrigoZandeOliveira_Alura_Imersao_2024_01.png)
+![Spotify Clone Preview](RodrigoZandeOliveira_Alura_ImersaoFrontEnd_2024_01.png)
 
 ##
 
