@@ -1,4 +1,4 @@
-**SPOTIFY CLONE**
+[**SPOTIFY CLONE**](https://rodrigozandeoliveira.github.io/Alura_ImersaoFrontEnd_2024_Spotify/)
 
 ![Spotify Clone Preview](RodrigoZandeOliveira_Alura_ImersaoFrontEnd_2024_01.png)
 
